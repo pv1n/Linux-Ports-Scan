@@ -1,2 +1,2 @@
 # Linux-Ports-Scan
-Script creado para realizar un Port Scan de un host en especifico, esto se debe aplicar una vez se haya comprometido una máquina.
+El script está diseñado para identificar los puertos abiertos en un host específico dentro del segmento de red inaccesible, además, de indicar qué servicios se están ejecutando en cada uno de ellos.
